@@ -21,7 +21,7 @@
 </head>
 <body background="background.jpg" >
 
-<h1>WELCOME TO TVR TRADERS</h1><br/><br/>
+<h1>WELCOME MAHARASHTRA TOURISM</h1><br/><br/>
 
 <button><a href="adminlogin.jsp">ADMIN LOGIN</a><br/></button><br/><br><br><br/>
 <button><a href="userlogin.jsp">USER LOGIN</a></button>
